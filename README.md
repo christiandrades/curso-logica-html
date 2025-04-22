@@ -1,11 +1,27 @@
 # Curso Gratuito de Lógica de Programação
 
-Este é um projeto de uma página HTML5 criado como atividade prática. Ele simula uma landing page para um curso gratuito de lógica de programação, contendo:
+🚀 Uma página HTML5 criada como prática para iniciantes. Esse projeto simula uma **landing page** para um curso gratuito de lógica de programação, com estrutura semântica e formulário funcional.
 
-- Título e subtítulo
-- 3 seções explicativas
-- Formulário de inscrição
-- Rodapé com link para o GitHub
+## 📄 Sobre o Projeto
 
-📌 Tecnologias: HTML5  
-👨‍💻 Autor: [Christian Andrade](https://github.com/christiandrades)
+A página apresenta:
+
+- ✅ Título e subtítulo
+- ✅ 3 seções (Sobre, Pré-requisitos, Inscrição)
+- ✅ Formulário HTML5
+- ✅ Rodapé com link para o GitHub
+- ✅ Estrutura semântica com `<main>`, `<section>`, `<footer>`
+
+## 👨‍💻 Autor
+
+**Christian Andrade**  
+[GitHub](https://github.com/christiandrades) • [LinkedIn](https://www.linkedin.com/in/christiandrades)
+
+## 🌐 Visualização Online
+
+Acesse via GitHub Pages:  
+👉 [`https://christiandrades.github.io/curso-logica-html/`](https://christiandrades.github.io/curso-logica-html/)
+
+---
+
+Este projeto faz parte do meu portfólio como desenvolvedor iniciante.
